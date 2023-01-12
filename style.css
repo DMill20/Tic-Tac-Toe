@@ -41,10 +41,9 @@ body {
   font-size: 3rem;
   box-shadow: 1px 1px 4px 4px #001;
 }
-/*.cell:hover {
+.cell:hover {
   background-color: red;
   opacity: 0.4;
-*/
 }
 .restart-button {
   color: #ffffff;
